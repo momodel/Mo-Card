@@ -1,5 +1,5 @@
-# Mo 卡片：浙江大学团队研发 一款学习AI知识的App！
-![](https://imgbed.momodel.cn/sprintCamp/Mo-card%E4%B8%8B%E8%BD%BDgithub.png)  
+# Mo 卡片：浙江大学团队研发 一款学习AI知识的App！  
+![](https://imgbed.momodel.cn/sprintCamp/mo-cardfm.png)  
 **简介：** 一款专为入门、学习和掌握人工智能（AI）知识的小伙伴量身打造的轻量 App，通过卡片形式传递知识点。卡片就是力量，一张卡片就是一个知识点！希望大家不要再被各种各样眼花缭乱的AI应用牵着鼻子走了，掌握AI知识及核心概念是提高自身竞争力的时代需求，Mo卡片便是这样一款旨在帮助用户轻松了解 AI 核心知识与技能的专业卡片学习工具。
 
 **介绍网站：** https://app.momodel.cn/
