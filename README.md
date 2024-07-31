@@ -1,48 +1,80 @@
-# Mo 卡片：浙江大学团队研发 一款学习AI知识的App！  
+# [Mo 卡片](https://app.momodel.cn/)：浙江大学团队研发 一款学习AI知识的App！  <br/>
 ![](https://imgbed.momodel.cn/sprintCamp/mo-cardfm.png)  
 **简介：** 一款专为入门、学习和掌握人工智能（AI）知识的小伙伴量身打造的轻量 App，通过卡片形式传递知识点。卡片就是力量，一张卡片就是一个知识点！希望大家不要再被各种各样眼花缭乱的AI应用牵着鼻子走了，掌握AI知识及核心概念是提高自身竞争力的时代需求，Mo卡片便是这样一款旨在帮助用户轻松了解 AI 核心知识与技能的专业卡片学习工具。
+<br/>
+**网站：** [Momodel平台](https://app.momodel.cn/)
+<br/>
 
-**介绍网站：** https://app.momodel.cn/
+❓[那么相比于当下乱花渐欲迷人眼的互联网课程，我们有哪些优势？](https://apps.apple.com/app/apple-store/id6475294942?pt=126747163&ct=Moweb&mt=8)
+
+|  | 🤷自学 | Ⓜ️Mo 卡片 | 🙋我们的优势 |
+| --- | --- | --- | --- |
+| 🔅学习资源 | ❌花费大量时间进行资源寻找<br />❌网上内容参差不齐，需要经验进行检索<br /> | ✅一个App，get全套AI知识卡片<br />✅浙大专业老师帮你整理汇总，内容专业可靠 | 节省时间<br />内容更可靠 |
+| ❤️趣味性 | ❌AI 知识晦涩难<br />❌需要有极强自制力，克服学习孤单枯燥 | ✅知识点内容以图文视频形式搭配组合<br />✅融入游戏化的升级概念，提升学习趣味性 | 简化知识难度<br />提高学习兴趣 |
+| 📏长期性 | ❌每个知识点需要长时间专注深入学习才能理解<br />❌缺乏督促，难以长期坚持<br /> | ✅一张卡片对应一个知识点，卡片式碎片时间学习提升效率<br />✅个性化提醒功能 | 碎片化学习更加高效<br />私人定制学习提醒 |
+| 📚收获感 | ❌学习难以产出成果 | ✅学习等级可看见，正反馈拉满 | 学习成果立马可见 |
+
+--[希望每一位求知者都能跟上人工智能的时代潮流。](https://apps.apple.com/app/apple-store/id6475294942?pt=126747163&ct=mobile&mt=8)
+<a name="zEL9s"></a>
+
 
 **🤔产品功能：**   
 1️⃣ 提供 30 套+、2k+张 AI 知识卡片（持续更新中），涵盖大模型、AI 历史、元宇宙、大数据、大模型应用等知识；  
 2️⃣ 一张卡片一个知识点，包含图文、动画、视频、语音等多样展示形式，每张卡片都值得珍藏；  
 3️⃣ 超超超强的学习正反馈，让人上瘾的游戏化成长体系和学习计划定制功能；  
-4️⃣ 知识+应用！包含了AI绘画、文生图等多样 AI 应用，带你快速利用AI创造价值～    
+4️⃣ 知识+应用！包含了AI绘画、文生图等多样 AI 应用，带你快速利用AI创造价值～  
+<br/>  
 **面向人群：**  
 👶你是对 AI 一无所知的小白：AI 入门卡片集将带领你从 0 开始认识 AI，轻松解决小白的所有疑惑；  
 🕵你是想要进阶 AI 的专业党：通过卡片进行基础科普以外，我们还提供了当下前沿的技术知识，拓展你的科技新知；  
 👔你是想要提高效率的上班族：我们配备了超多实操技能类型的卡片集，手把手带你进行 AI 工具的使用与延伸；  
 👱你是一位 AI 相关专业老师：短小精炼的知识点内容为老师提供教学内容及思路外，还进阶分享了如何使用 AI 辅助教学的实用方法。  
+<br/>  
 **产品优势：**  
-![](https://imgbed.momodel.cn/sprintCamp/%E4%BA%A7%E5%93%81%E5%AF%B9%E6%AF%94.png)  
+<div style="text-align: center;">
+  <img src="https://imgbed.momodel.cn/sprintCamp/%E4%BA%A7%E5%93%81%E5%AF%B9%E6%AF%94.png" alt="产品对比" style="width: 60%; height: auto;">
+</div>
+
 **「Mo卡片」团队：**  
 🔴Mo 团队诞生于浙江大学，由教育部人工智能协同创新中心、浙江大学计算机学院、人工智能研究所、中国人工智能学会等机构成员发起成立。✊团队致力于帮助学习者更好地入门人工智能，并且降低人工智能开发成本，实现 AI 教育普及化，提升人学习成长的能力。
 🦑团队成员承担了国家众多教育发展任务，如新一代人工智能国家 2030 重点工作计划，支撑教育部“101计划”基于知识点的全新教学方案。🆙我们希望将头部高校的优质教育资源真正以优质的方式向大众传播，贡献自身的力量。🆒我们承载着浙大深厚的教育传统和学术实力，为我们的教育平台提供了坚实的学术支持，希望用户能够获得高质量的学习体验。  
-![](https://imgbed.momodel.cn/sprintCamp/%E6%99%BA%E6%B5%B7Mo%E6%8E%88%E7%89%8C.png)  
-🎓Mo 团队以在校老师为核心，是一个介于个人开发者与商业公司之间的非典型团队。✨我们将深耕于学校教学第一线的内容向外输出，同时尽量不去关注商业化的东西，保持内容的纯粹性，传播优质知识是我们唯一的使命。  
-**「Mo卡片」功能介绍：**  
+<div style="text-align: center;">
+  <img src="https://imgbed.momodel.cn/sprintCamp/%E6%99%BA%E6%B5%B7Mo%E6%8E%88%E7%89%8C.png" alt="智海Mo授牌" style="width: 60%; height: auto; margin: 0 auto;">
+</div>
+
+🎓Mo 团队以在校老师为核心，是一个介于个人开发者与商业公司之间的非典型团队。✨我们将深耕于学校教学第一线的内容向外输出，同时尽量不去关注商业化的东西，保持内容的纯粹性，传播优质知识是我们唯一的使命。
+<br/>  
+**「Mo卡片」功能介绍：**  <br/>  
 截止 2024年7 月，「Mo卡片」上新 30+ 套卡片集，总计 2000+ 张卡片✨，内容涵盖 AI 时代下的诸多相关技术，👐如元宇宙、大数据、大模型、ChatGPT等丰富但不繁冗的内容。卡片集数量还在不断更新，欢迎不定期翻阅！  
-**理论篇：** 
-![](https://imgbed.momodel.cn/sprintCamp/1-2.png)
-![](https://imgbed.momodel.cn/sprintCamp/3-4.png)
-![](https://imgbed.momodel.cn/sprintCamp/5-6.png)
-![](https://imgbed.momodel.cn/sprintCamp/7-8.png)
-![](https://imgbed.momodel.cn/sprintCamp/9-10.png)  
-**实操篇：**   
-![](https://imgbed.momodel.cn/sprintCamp/sc1-2.png)
-![](https://imgbed.momodel.cn/sprintCamp/sc3-4.png)
-![](https://imgbed.momodel.cn/sprintCamp/sc5-6.png)  
-**特别篇：** 
+**理论篇：** <br/>
+<img src="https://imgbed.momodel.cn/sprintCamp/1-2.png" alt="Image 1-2" style="width: 60%; height: auto;">
+<img src="https://imgbed.momodel.cn/sprintCamp/3-4.png" alt="Image 3-4" style="width: 60%; height: auto;">
+<img src="https://imgbed.momodel.cn/sprintCamp/5-6.png" alt="Image 5-6" style="width: 60%; height: auto;">
+<img src="https://imgbed.momodel.cn/sprintCamp/7-8.png" alt="Image 7-8" style="width: 60%; height: auto;">
+<img src="https://imgbed.momodel.cn/sprintCamp/9-10.png" alt="Image 9-10" style="width: 60%; height: auto;">
+<br/>  
+**实操篇：**   <br/>
+<p style="text-align: center;">
+  <img src="https://imgbed.momodel.cn/sprintCamp/sc1-2.png" alt="Image sc1-2" style="width: 60%; max-width: 100%; height: auto;">
+  <img src="https://imgbed.momodel.cn/sprintCamp/sc3-4.png" alt="Image sc3-4" style="width: 60%; max-width: 100%; height: auto;">
+  <img src="https://imgbed.momodel.cn/sprintCamp/sc5-6.png" alt="Image sc5-6" style="width: 60%; max-width: 100%; height: auto;">
+</p>
+<br/>  
+
+**特别篇：** <br/>
 特别篇内容改编自吴飞教授的著作《走进人工智能》💫
  --豆瓣评分 8.8，喜马拉雅特别制作听书专栏，
-网友评价：文笔流畅，谈古论今，作为科普文全面而广泛。
-![](https://imgbed.momodel.cn/sprintCamp/tb-ai.png)  
-**轻松化学习：**   
+网友评价：文笔流畅，谈古论今，作为科普文全面而广泛。  
+<img src="https://imgbed.momodel.cn/sprintCamp/tb-ai.png" alt="TB AI" style="width: 25%; width: 25%; height: auto; display: block; margin-left: auto; margin-right: auto;">
+<br/>  
+**轻松化学习：**   <br/>
 🛡️想象一下，你现在就要踏上一场奇妙的 AI 冒险，化身为一位勇敢无畏的骑士。你的任务不是趟过血腥的战场，检索神秘的遗物，也并非要与恶龙搏斗。相反，这次冒险将充满知识和智慧，而你的武器，会是一组充满魔力的学习卡片。这不仅仅是一个故事，也是为了让大家在AI学习的过程中不再单调，让进步看得见，让焦虑被骑士击败。
-🎖️每一套卡片集背后都隐藏着独特的装饰品等待你发现。可能是一扇通往任意地点的窗，也可能是一枚描绘着奇幻兽的勋章，甚至是一把可以劈开空间的斧头，每一个“艺术展品”都有自身独一无二的故事。想要获取这些装饰品，你需要通过各种挑战来解锁卡片，你将领略卡片中鲜活的人工智能历史，前卫的人工智能发展浪潮。
-![](https://imgbed.momodel.cn/sprintCamp/yxh.png)  
-**我们有话说**  
+🎖️每一套卡片集背后都隐藏着独特的装饰品等待你发现。可能是一扇通往任意地点的窗，也可能是一枚描绘着奇幻兽的勋章，甚至是一把可以劈开空间的斧头，每一个“艺术展品”都有自身独一无二的故事。想要获取这些装饰品，你需要通过各种挑战来解锁卡片，你将领略卡片中鲜活的人工智能历史，前卫的人工智能发展浪潮。  
+<p style="text-align: center;">
+  <img src="https://imgbed.momodel.cn/sprintCamp/yxh.png" alt="Your Image" style="width: 60%; width: 60%; height: auto;">
+</p>
+  
+**我们有话说**  <br/>
 为什么我们在五年的沉淀后，毅然选择了【卡片】这种方式来传播知识呢？🤔 但是卡片却是市面上板上钉钉的“非主流”，甚至几乎没有看到过以卡片为主的学习 App。 不过简单回忆，我们小时候却经常用一张张【识字卡片】、【算数卡片】、【国家卡片】来认识世界，😄 甚至拿在手里、捏在指尖的卡片才让小时候的我们心里踏实，明白知识的“质感和重量”。
 
 除了灵光乍现外，我们也发现小时候的卡片又出现了。💫 「Mo卡片」开发团队是浙江大学在校的老师，除了每天要给本科生、研究生上课外，还需要面对教育部等国家部门布置的任务（还好我们已经不是“青椒”没有非生即走的压力hh），🎓 2023 年开始，教育部有一项不亚于“985”、“211”计划的“101计划”，即基础学科教学改革工作计划。Mo团队就承接了其中计算机领域的改革计划，“101计划”的核心思想就是将学科内容划分为基础的【知识点】。 诶，这是不是就像一张张【卡片】。学科的大树上由一片片树叶的知识点组成，知识的卡片集也由一张张卡片组成，我们将知识点与卡片关联了起来。
